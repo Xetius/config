@@ -21,7 +21,7 @@
     set clipboard=unnamed
     set list
     set listchars=tab:▸\ ,trail:▫
-    set noexpandtab
+    set expandtab
     set number
     set ruler
     set shiftwidth=4
